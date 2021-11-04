@@ -1,0 +1,20 @@
+body{
+    text-align: center;        
+}
+h1{
+    color: aqua;
+    background-color: black
+}
+h2{
+    background-color: aqua;
+}
+h3{
+    background-color: bisque;
+        color:black;
+        
+}
+h4{ font-size: 20pt;
+    background-color: brown;
+    border-color: aliceblue;
+    color: azure;
+}
